@@ -19,7 +19,7 @@
 <a href="https://github.com/afiabasri" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  <a href="https://linkedin.com/in/afia-basri/" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/afia-basri/" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
   </a>
 </p>
