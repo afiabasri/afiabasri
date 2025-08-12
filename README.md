@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/afiabasri/afiabasri/blob/main/Data%20Analyst.png" alt="Profile Banner" width="100%">
+  <img src="https://github.com/afiabasri/afiabasri/blob/main/Data%20Analyst.jpg" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Afia_Basri!</h1>
