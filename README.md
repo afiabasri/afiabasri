@@ -32,6 +32,8 @@
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
+<h4 align="left">Other Skills:</h4>
+<p>Excel, Power BI</p>
 </div>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=afiabasri&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="afiabasri's GitHub Stats" /></p>
