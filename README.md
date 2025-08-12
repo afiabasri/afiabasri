@@ -4,16 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Afia_Basri!</h1>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=afiabasri&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="afiabasri's GitHub Stats" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=afiabasri&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=afiabasri&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afiabasri&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/afiabasri" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @afiabasri" /></a>
-</p>
-
 <h3 align="center">Data Analyst | Python, SQL, Excel, Power BI | Transforming data into actionable insights</h3>
 
 <h3 align="left">More About Me:</h3>
@@ -45,3 +35,13 @@
 <h4 align="left">Other Skills:</h4>
 <p>Excel, Power BI</p>
 </div>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=afiabasri&show_icons=true&locale=en&theme=radical&count_private=true&hide_border=true" alt="afiabasri's GitHub Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=afiabasri&locale=en&theme=radical&layout=compact&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=afiabasri&theme=radical&hide_border=true" alt="GitHub Streak Stats" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afiabasri&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/afiabasri" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @afiabasri" /></a>
+</p>
