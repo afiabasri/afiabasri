@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Afia_Basri!</h1>
-<h3 align="center">Data Analyst | Python, SQL, Excel, Power BI | Transforming data into actionable insights</h3>
+<h3 align="center">Data Analyst | Helping Businesses Make Smarter Decisions Through Python, SQL, Excel & Power BI Dashboards</h3>
 
 ---
 
