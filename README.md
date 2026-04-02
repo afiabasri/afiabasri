@@ -11,7 +11,7 @@
 - 💬 Ask me about: **Data Analysis**
 - 📫 How to reach me: [afiabasri360@gmail.com](mailto:afiabasri360@gmail.com)
 - 👨‍💻 **[My Portfolio](https://www.fiverr.com/users/afia_basri/portfolio)**
-- 📄 **[My Resume](https://drive.google.com/file/d/12vpQVEXKq-wgSZMwqUVF7LJI5Ejp-Y3l/view?usp=drive_link)**
+- 📄 **[My Resume](https://drive.google.com/file/d/1PQiEhRIxV2cdHx2OjLuunSxIeHUXPBnY/view?usp=drive_link)**
 
 ---
 
